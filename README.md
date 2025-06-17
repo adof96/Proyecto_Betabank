@@ -17,11 +17,11 @@ Además, debemos medir la métrica AUC-ROC y compararla con el valor F1
 1.  Inicializacion y carga de datos
 2.  Estandarizacion de datos
 2.1.  Codificacion OHE y escalado de caracteristicas
-3.  Examinar el equilibrio de clases
+3.  Examinar el equilibrio de clases ![Examining class balance](Figuras/Figure_1.png)
 3.1.  Prueba de consistencia
 3.2.  Evaluacion del modelo
 4.  Mejora de la calidad del modelo
 4.1.  Sobremuestreo y submuestreo
 4.2.  Regresion logistica
 4.3.  Bosque aleatorio
-5.  Curva Roc
+5.  Curva Roc ![Roc curve](Figuras/Roc_curve.png)
